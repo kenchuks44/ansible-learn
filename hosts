@@ -1,0 +1,2 @@
+[target_server]
+52.191.117.105 ansible_ssh_private_key_file=/home/ken/target-server_key.pem ansible_user=azureuser
